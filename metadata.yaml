@@ -1,0 +1,26 @@
+_repo: Maring--Dangal-at-Lakas-Ulirang-Buhay-Tagalog_43902
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43902-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tolentino, Aurelio
+    birthdate: 1867
+    deathdate: 1915
+    gutenberg_agent_id: '5178'
+    url: http://www.gutenberg.org/2009/agents/5178
+description: ''
+gutenberg_issued: '2013-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43902'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth -- Conduct of life'
+- !lcc 'BJ'
+title: 'Maring (Dangal at Lakas): Ulirang Buhay Tagalog'
+url: http://www.gutenberg.org/ebooks/43902
