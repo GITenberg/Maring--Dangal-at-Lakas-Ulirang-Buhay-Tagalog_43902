@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5178'
     url: http://www.gutenberg.org/2009/agents/5178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43902#Maring--Dangal-at-Lakas-Ulirang-Buhay-Tagalog
 gutenberg_issued: '2013-10-06'
 gutenberg_type: Text
 identifiers:
